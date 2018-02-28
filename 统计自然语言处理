@@ -1,1 +1,4 @@
 Statistical natural language processing written by Chengqing Zong
+
+第八章 句法分析
+句法结构分析任务主要有三种：1.判断输入字符属于哪种语言，2.消除输入句子中词法和结构等方面的歧义，3.分析输入句子的内部结构，如成分构成，上下文关系等
